@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grace of God asserted to be saving and increated: and James Forbes proved a false witness, in affirming it to be no grace, and a great nothing. Being a reply to his book called Nehushtan. / By John Elliot.</title>
+            <author>Elliot, John.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84369</idno><idno type="EEBO-CITATION">47682906</idno>
+  <idno type="VID">172861</idno>
+  <idno type="EEBO-PROQUEST">2240897645</idno>
+  
+            <idno type="STC">Wing E548A</idno>
+            <idno type="STC">ESTC R171927</idno>
+            <idno type="OCLC">47682906</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2654:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grace of God asserted to be saving and increated: and James Forbes proved a false witness, in affirming it to be no grace, and a great nothing. Being a reply to his book called Nehushtan. / By John Elliot.</title>
+                  <author>Elliot, John.</author>
+               </titleStmt>
+               <extent>[8], 63, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Northcott ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">J. F. --  (James Forbs), 1629?-1712. --  Nehushtan.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+               <term type="topical_term">Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172861:1"/>
+            <p>THE GRACE of GOD Asserted to be <hi>Saving and Increated:</hi> AND <hi>JAMES FORBES</hi> PROVED A False Witness, In affirming it to be no Grace, AND A Great NOTHING.</p>
+            <p>BEING A Reply to his Book called, <hi>Nehushtan.</hi>
+            </p>
+            <p>By <hi>JOHN ELLIOT.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Heb. 10.28.29.</hi>
+               </bibl>
+               <p>He that dispised Moses Law, dyed without Mercy under two or three Wittnesses.</p>
+               <p>Of how much sorer Punishment, suppose ye, shall he be thought worthy who hath troden under Foot the Son of God, and hath counted the Blood of the Covenant wherewith he was Sanctifyed an Ʋnholy thing, and hath done despite unto the Spirit of Grace.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 12.7.</hi>
+               </bibl> But the Manifestation of the Spirit is given to every Man to proffit withall.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Northcott</hi> in <hi>George-Yard</hi> in <hi>Lombard-street.</hi> 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:172861:2"/>
+            <pb facs="tcp:172861:2"/>
+            <head>THE PREFACE Dedicated more particularly to James Forbes HIS AUDITORY.</head>
+            <p>THE former Treatise did I make (Friendly Neighbours) in cordial Love to your Souls, be<g ref="char:EOLhyphen"/>ing desirous (it falling to my Lot) to do my endeavour, that this Di<g ref="char:EOLhyphen"/>vine Principle of saving Grace, or Christs Spiritual Appearance in the Heart, (the point in Controversy between us) might be cleared up to
+<pb facs="tcp:172861:3"/> you; and so through yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> derstanding thereof, migh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> truly to believe therein, and thereby livingly experience more of the Di<g ref="char:EOLhyphen"/>vine Virtue that comes therefrom, and which is in an abundant manner participated of, by all that are faith<g ref="char:EOLhyphen"/>ful thereto.</p>
+            <p>Now this my Labour of Love, I believe hath not been altogether unservicable, even amongst some of you, (or that have been of you) though unfriendly rejected by others of you. Who, as your Paster cer<g ref="char:EOLhyphen"/>tifies, are (contrariwise) so satis<g ref="char:EOLhyphen"/>fied with what you have heard Preach<g ref="char:EOLhyphen"/>ed by him, that the most Judicious among you (it seems) prest the pub<g ref="char:EOLhyphen"/>lication thereof, that others might reap the like Advantage, as they have reaped, and (not only so, but) that it may contribute something to<g ref="char:EOLhyphen"/>wards the preventing the growth of Quakerism in other places, as well as here. And what he hath done, being as directed (he saith) <hi>viz.</hi> Doctrinally, and Practically, to
+<pb facs="tcp:172861:3"/> Discuss this Point. And loth to trouble the People, or polute the Pulpit, with Replies to the Imper<g ref="char:EOLhyphen"/>tinences of <hi>J. E</hi>'s. Scrible, designing that, as distinct from this, with purpose also to publish if I have any fresh Provocation. Now though I have here written a fresh, yet hope have not given him any just Provoca<g ref="char:EOLhyphen"/>tion of offence, as did not before that I am yet sensible of; but if here<g ref="char:EOLhyphen"/>upon, he will run himself into a great Paroxism of furious Zeal, and his Spirit be in so great a ferment, as to add wilfulness to his weakness, to the falling more fouler upon our Principle, and us who profess it, the fault will be in himself, not me, and the greater will be his Condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>I would have him consider, that though I began to Print, I did not to write, that was the Act of <hi>J. Green.</hi> But I greatly question whether <hi>J. F.</hi> himself was not the cause thereof, or consenting thereto, as its now confest by himself in
+<pb facs="tcp:172861:4"/> Print, that he was the Author of the last Lines (according to my Be<g ref="char:EOLhyphen"/>lief therein before) though come forth in the former Persons Name. With<g ref="char:EOLhyphen"/>all let him weigh the matter with respect to my Weakness, mean Qua<g ref="char:EOLhyphen"/>lification, more Confidence than Strength of Reason, and hearkning to foolish Counsels, not to say worse, (all which he saith of me:) Which (on the other hand) his own labo<g ref="char:EOLhyphen"/>rious Lines, the effect of his long Study, many Sermons, and perhaps refining thereof since, whereby (doubt<g ref="char:EOLhyphen"/>less) he doubts not but that he hath proved the Point, as in his Title Page is Asserted. These things put together and well weigh<g ref="char:EOLhyphen"/>ed, I say, methinks he should so slight such mean matter (accoun<g ref="char:EOLhyphen"/>ed by him) as not to persist to print against what of the same im<g ref="char:EOLhyphen"/>port is here made publick, from such a weak Opponent, against his (supposed) strong Lines; and in vindication of my former, called by him (A crude, indigested, em<g ref="char:EOLhyphen"/>pty
+<pb facs="tcp:172861:4"/> Script;) I doubt not but he will deem this the like, and that this my Rejoynder is no Answer to him, therefore consequently to be slighted by him; but if he should take such cognizance thereof, as to appear against it, whether then it may not be concluded that he (contrariwise) hath a different Opi<g ref="char:EOLhyphen"/>nion concerning it; but leaving it to him to do what he shall think best, I have true freedom (not from foolish Councels) but from the mea<g ref="char:EOLhyphen"/>sure of the Spirit of Truth in me (which hath not deceived or trap<g ref="char:EOLhyphen"/>paned me, nor brought shame and confusion of face upon me) further to oppose him, in my weak manner (for indeed I am so far humble, that I account my self much weaker than many thousands in <hi>Israel</hi>) and hope that it will be further seen of some, by what is here further ad<g ref="char:EOLhyphen"/>ded, That its further manifested he is still grosly Erronious, and there<g ref="char:EOLhyphen"/>fore ought not to be hearkned to herein, but withdrawn from: And
+<pb facs="tcp:172861:5"/> that he had better been silent, and still not to have printed, than held up his Head again, thus to endeavour the preventing the growth of Gods Eternal Truth, called by him Quakerism.<note place="margin">Jo. 1.1. Rom 10.7.8. 1 Pet. 1.23.</note>
+            </p>
+            <p>Now that, Christ, the Word, (nigh in the Heart) who lives and abides forever, may have free course and be glorified: And that in or<g ref="char:EOLhyphen"/>der to your being really advantaged, and blest with Spiritual Encrease from above, you would depend up<g ref="char:EOLhyphen"/>on God, through his Holy Spirit of Grace, as inwardly appearing; and so Indepency, in this respect, may not grow, but decrease,</p>
+            <closer>
+               <signed>
+                  <hi>Is the fervent Prayer of your sincere and well wishing Friend, <hi>Iohn Elliot.</hi>
+                  </hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>The 23d. 5th. Month, 1694.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172861:5"/>
+            <div type="introduction">
+               <head>INTRODƲCTION.</head>
+               <p>THE Lord God Everlasting, who created Man for a pur<g ref="char:EOLhyphen"/>pose of his own Glory, and desires not the Death of a Sinner, but rather that he should Return and Live, having in this his Universal Love, so far reached to me, as to Illuminate my Understand<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, and give me to Believe in him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrough his Holy Spirit in my Heart, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thereby have witnessed (in mea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure) a being renewed in the Spirit of my Mind, and changed from an Evil Life, and Vain Conversation, and so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nternally have seen and tasted that the Lord is good, through a real partici<g ref="char:EOLhyphen"/>pating of his Spiritual Comforts, issu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng forth from him in my Soul, (pure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raises be returned to him for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame) and being in a continued sense <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f his Goodness, desiring also that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers might be more in love with this
+<pb facs="tcp:172861:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:172861:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:172861:7"/> Divine Power, and so be sensible (wit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> us) more of the overcoming Virtu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that comes therefrom; likewise having a Godly Zeal for the Lord, and this his Spiritual Appearance, therefore<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> here again appear on behalf thereof▪ and against the Gross Errour and Bla<g ref="char:EOLunhyphen"/>sphemy of <hi>James Forbes,</hi> who affirms in his Title Page, That what I cal<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Saving Grace in all Men, and an In<g ref="char:EOLunhyphen"/>created Being, he hath proved it to b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>No Grace,</hi> and a <hi>Great Nothing:</hi> Again▪ comparing it to Images, and also t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Brazen Serpent which <hi>Moses</hi> made that the Children of <hi>Israel</hi> burnt In<g ref="char:EOLhyphen"/>cense to, which therefore <hi>Hezekia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> brake in pieces, and called it <hi>Nehush<g ref="char:EOLhyphen"/>tan.</hi>
+               </p>
+               <p>I being no Latin Scholar, therefor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it may not be expected that I should follow him in his Way of Logick, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to use Politeness of Language, or Rhe<g ref="char:EOLhyphen"/>torical Florishes of Words; it's that, he saith, that hath been contrary to his own natural Genius, and yet me<g ref="char:EOLhyphen"/>thinks he (contradictorily) is much found therein, having strained greatly thereafter: What I write, may there<g ref="char:EOLhyphen"/>fore be like a Mechanick, (or Trades<g ref="char:EOLhyphen"/>man) and that being in a plain way, and according to Scripture, therefore
+<pb n="3" facs="tcp:172861:7"/> I hope it will not be slighted; and make it my Request, That it may be unto the end seriously perused, and impartially considered.</p>
+            </div>
+            <div type="part">
+               <p>NOW then to the Point, the which consists in these three Particulars, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>I. <hi>Whether the Saving Grace of God, hath not appeared to all Men, as well Ʋnbelievers as Believers?</hi>
+                  </item>
+                  <item>II. <hi>Whether this Saving Grace, men<g ref="char:EOLhyphen"/>tioned</hi> Titus, 2.11. <hi>and the Light,</hi> Joh. 1.4, 9. <hi>and the Spirit,</hi> Joh. 16.7, 8, 13. 1 Cor. 12.7. <hi>are not (though differently denominated) but one and the self same thing?</hi>
+                  </item>
+                  <item>III. <hi>Whether the said Grace, Light, or Spirit of Christ in Man, is a Crea<g ref="char:EOLhyphen"/>ture, or Increated; a meer Fruit, Work, or Effect of the Spirit; or whe<g ref="char:EOLhyphen"/>ther Christ, as the Cause, be not real<g ref="char:EOLhyphen"/>ly in Spirit working in the Heart, convincing and reproving the Ʋnre<g ref="char:EOLhyphen"/>generate, and comforting and uphold<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:172861:8"/> True Believers, and so the Spiri<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and its Work to be differently consi<g ref="char:EOLhyphen"/>dered and distinguished?</hi>
+                  </item>
+               </list>
+               <p>As to the First, touching universal saving Grace in all, This he denyes; and saith, <hi>It is not what it is called by some: Neither is so to be called, nor de<g ref="char:EOLhyphen"/>serves that denomination;</hi>
+                  <note place="margin">Vide Colo<g ref="char:EOLhyphen"/>tions.</note>
+                  <hi>for that which is in all Men, is not Grace,</hi> pa. 1, 6, 7. Thereby plainly contradicting the say<g ref="char:EOLhyphen"/>ing of the Apostle <hi>Paul,</hi> viz. <hi>For the Grace of God that bringeth Salvation hath appeared to all Men,</hi> Tit. 2.11. Then to Unbelievers as well as unto Believ<g ref="char:EOLhyphen"/>ers. And that this is the same in Na<g ref="char:EOLhyphen"/>ture with what is in Believers, Read, <hi>Cor.</hi> 12.9. <hi>Acts,</hi> 20.32.</p>
+               <p>The Second particular mentioned, I conclude will not be denyed; and I take it for granted, from his own say<g ref="char:EOLhyphen"/>ing, <hi>viz. Call it by what Name thou wilt, the Grace of God within thee, and others; the Light that is in thee, and others; Christ, or the Spirit within thee, and others</hi>—. Saving Grace, <hi>pa.</hi> 17.</p>
+               <p>Thirdly. <hi>That the Grace, Light, or Spirit of God in the Heart of Man, is
+<pb n="5" facs="tcp:172861:8"/> a meer Fruit, work, or a created Excellen<g ref="char:EOLhyphen"/>cy:</hi> That I deny.</p>
+               <p>He proceeds to make proof thereof in pa. 2. But before I pursue him therein, I think good first to signify briefly, that I deny that his diversifyed Argument hath made out his Assertion in pa. 1. <hi>viz. That nothing of Christ, his Light, Spirit, or Grace, is in Hea<g ref="char:EOLhyphen"/>thens and other unconverted Persons.</hi> But the particular disquisition thereof I suspend till after I have treated of the last Head; and in the mean time, de<g ref="char:EOLhyphen"/>sire the impartial Readers, that until that is heard also, to defer giving Judg<g ref="char:EOLhyphen"/>ment, as that what <hi>J. F.</hi> hath there mentioned, is of sufficient force, co<g ref="char:EOLhyphen"/>gency, and validity, utterly to over<g ref="char:EOLhyphen"/>throw the foundation of my Book, and the whole superstructure also there<g ref="char:EOLhyphen"/>with; I hopeing through the Assistance of Gods Grace, to Refute his supposed Confutatory Arguments to their satis<g ref="char:EOLhyphen"/>faction.</p>
+               <p>So now to proceed, and that as short as I well can.</p>
+               <p>His Position, which he signifies, he hath seen cause to insist chiefly on, runs thus, <hi>viz.</hi>
+               </p>
+               <q rend="indent">
+                  <pb n="6" facs="tcp:172861:9"/>The saving Grace of God in True Belie<g ref="char:EOLhyphen"/>vers is no increated Being; that which is Grace in those that are Christians indeed, is a Creature, a meer Creature, and an imperfect Creature.</q>
+               <p>Then for method sake he proceeds to state (but not rightly) the Question, or thing in Controversy between us; and so in his last Preliminary speaks on the word Grace, that in the Scrip<g ref="char:EOLhyphen"/>ture it hath a double acceptation—It is the same with Divine Benignity, or God himself, freely willing to communi<g ref="char:EOLhyphen"/>cate the specialties of his Favour even to those that are most undeserving— 1 <hi>Cor.</hi> 15.10. <hi>I am what I am by the Grace of God</hi>—.<note place="margin">page 6.</note> This is the Original of all good things we have—. It is God himself—. 2. There is Grace <hi>viz. Any Gift that is bestowed on us of the Love, Favour, and Bounty of God,</hi> citing 2 <hi>Cor.</hi> 8.7.—Where the Apos<g ref="char:EOLhyphen"/>tle speaking of Faith, <hi>&amp;c.</hi> excites that Church, that they abound in this Grace also, <hi>viz. Liberally distributing towards relieving the Necessities of the Poor Saints at Jerusalem.</hi>
+               </p>
+               <p>That the word Grace in Scripture is of a double acceptation I deny not;
+<pb n="7" facs="tcp:172861:9"/> But pray let it be Observed that this Divine Grace, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> or Thing in Contro<g ref="char:EOLhyphen"/>versy, which I stand for, as in its self to be saving, and increated, and not a meer imperfect Creature; is not meant by me, to be any meer Fruit, or single Effect of the Spirit as he insinu<g ref="char:EOLhyphen"/>ateth, (as Faith, Hope, Charity, <hi>&amp;c.</hi> (called also Gifts and Graces) as is plainly mentioned by me in my former Book, <hi>pa.</hi> 28.) But the Cause pro<g ref="char:EOLhyphen"/>ducing that Effect, that is to say, God as manifesting himself in Man by his own pure Light, Life, and Spirit, or Christ within, as he gave me leave to call it, and which is so called in Scripture, 2 <hi>Cor.</hi> 13.5. <hi>Col.</hi> 1.27. <hi>&amp;c.</hi> And in this sense, without doubt, he hath all along taken me, in that all along before I have so expressed my self. But by his words it may now be per<g ref="char:EOLhyphen"/>ceived that he owns not that Christ, or his Spirit is really in Man, but that in true Believers its but a special Work of the Spirit of God, a special Gift, as Faith—<hi>Nature renewed in respect of Qualities,</hi> pa. 2, 7, 8. This is the substance of his Faith in this point, if I mistake him not. And so (although he is sensible that I believe otherwise, yet he, as if I was one with him therein,
+<pb n="8" facs="tcp:172861:10"/> doth proceed in high opposition against me with relation to what I asserted not, <hi>viz. That this Grace,</hi> to wit, Faith (or any such like Virtue) <hi>is not an Increated Being.</hi> Therefore I conclude, that if it be not sophistically, it is very im<g ref="char:EOLhyphen"/>pertinently, and unnecessaryly done by him, thus to make such a do and fill his Book so full, and trouble his Reader so long (as he did his Hearers also be<g ref="char:EOLhyphen"/>fore) about that which was not affirm<g ref="char:EOLhyphen"/>ed, and is quite beside the point. What I think is, and deserves cogni<g ref="char:EOLhyphen"/>zance, I purpose to speak to, in order as I find it mentioned, and the rest may pass over as unnecessary to be taken notice of.</p>
+               <p>Now for proof of his Proposition he begins thus, <hi>viz.</hi>
+               </p>
+               <q rend="indent">There is no person or positive Entitie in Heaven or Earth, but what is Crea<g ref="char:EOLhyphen"/>ted of the Lord Jehovah, Father, Son and Spirit, <bibl>
+                     <hi>pa. 2.</hi>
+                  </bibl>
+               </q>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> What then? Are the Father, Son, and Spirit, as Spiritually manifested in Believers a Created Being? surely, Nay.</p>
+               <p n="3">3d. Preliminary, <hi>p.</hi> 2. <hi>There is a pas<g ref="char:EOLhyphen"/>sage in my Opponents Pamphlet, p.</hi> 26.
+<pb n="9" facs="tcp:172861:10"/>
+                  <hi>which savours so much of unsoundness, that I cannot let it pass without some animad<g ref="char:EOLhyphen"/>version; his Words are speaking of Grace in his sense,</hi> It is of his Divine saving Nature, but yet not the only entire God, Eternal Jehova.</p>
+               <p>As to this passage which he hath took notice of, I, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> by many Scripture Texts immediately following, evi<g ref="char:EOLhyphen"/>dently proved it, as may there appear. The point he in short hath mentioned, and hath not attempted to disprove it by Scripture, but lightly passed my Scripture proofs over; and saith, <hi>Doth not this imply that Grace is God, though not Jehova? and that Jehova is a divisible and compounded being?</hi> Let him from Scripture confute (if he can, if he write again) what I have Scripturally written in relation hereto, signifying withall his sense of <hi>Jo.</hi> 3.34. 1 <hi>Cor.</hi> 12.7 <hi>Eph.</hi> 4.7. and after he may expect to hear further on the point. But in the mean time he may understand that I acquiesce with him, That God doth not admit of any of these Compositions mentioned by him. And he also al<g ref="char:EOLhyphen"/>lows, that there are measures of the Spirit, p. 4.</p>
+               <p n="4">4th. Preliminary: He saith, <hi>The He<g ref="char:EOLhyphen"/>terodoxy of some Expressions of our Author,
+<pb n="10" facs="tcp:172861:11"/> put me upon making this a distinct Preli<g ref="char:EOLhyphen"/>minary, The Essence of God is incommu<g ref="char:EOLhyphen"/>nicable to Creatures.</hi> And recites these my Words, viz. <hi>Though this measure be not the fulness, or the whole intire Essence, yet it is of God, in a measure of his own Spirit, which is not distinct therefrom, but is one with it,</hi> 1 Jo. 5.7. <hi>and therein com<g ref="char:EOLhyphen"/>municable to Men.</hi> This he endeavours to Enervate, (without Scripture proof likewise) by quoting the said Verse at large, <hi>viz. There are Three that bear record in Heaven, the Father, the Word, and the Holy Ghost, and these three are one.</hi> And then saying, <hi>That God, Fa<g ref="char:EOLhyphen"/>ther, Son, and Spirit, are Essentially one,</hi> as if therefore consequently the Eter<g ref="char:EOLhyphen"/>nal Spirit and the measure thereof in Man were altogether distinct. And upon my expression <hi>That the Holy Spi<g ref="char:EOLhyphen"/>rit of God in Man was not distinct, or altogether seperate from God,</hi> he comes off with, <hi>There's Divinity for you.</hi> Which whether his, or mine be most Orthodox, let some of the former Scriptures here recited, <hi>viz. Isa.</hi> 57.15. 1 <hi>Cor.</hi> 3.16, 17. &amp; 6.19. 2 <hi>Cor.</hi> 6.16. <hi>Jo.</hi> 14.16, 17, 20. &amp; 17.23. <hi>Zach.</hi> 12.10. &amp; <hi>Heb.</hi> 10.29. with other Scriptures of the like import, be duly weighed. God is a Spirit,
+<pb n="11" facs="tcp:172861:11"/>
+                  <hi>Jo.</hi> 4.24. and incomprehensible, so that the Heaven, and Heaven of Hea<g ref="char:EOLhyphen"/>vens cannot contain him. 1 <hi>Kings.</hi> 8.27. And though he be that high and lofty One, that Inhabiteth Eternity, yet (saith he) I dwell with him also that is of a contrite and humble Spi<g ref="char:EOLhyphen"/>rit, to revive the Spirits of the humble, and to revive the Hearts of the con<g ref="char:EOLhyphen"/>trite Ones. Now though I assert not, that the whole entire Essence, or the God-head precisely taken, is in us, he being incomprehensible; yet I con<g ref="char:EOLhyphen"/>clude according to those Scriptures foregoing, that he, by his Holy Spi<g ref="char:EOLhyphen"/>rit which is inseparable from him, is really so to be witnessed, as to be seen, felt, heard, and understood by the inward senses of the renewed Man; <hi>Jo.</hi> 1.4. In him (viz. <hi>Christ the Word) was Life, and the Life was the Light of Men.</hi> Consequently the Light within Men is of the Essence and substance of the God-head.</p>
+               <p>And Although the disproportion between God and Man, be as great, as between Finite,<note place="margin">page 3.</note> and Infinite—And that whatever it is that Man is, or is in Man (as a part of Man) compared with God, it is imperfection it self. But this in truth it cannot be said by
+<pb n="12" facs="tcp:172861:12"/> him, with respect to the Holy Spirit that is given of God for <hi>a Light to Man that sits in Darkness, and in the sha<g ref="char:EOLhyphen"/>dow of Death, and to guide our Feet into the way of Peace,</hi> Luke 1.79.</p>
+               <p n="5">5th. <hi>Preliminary,</hi> He saith, <hi>Christ and his Spirit are in Believers to exert and put forth gracious acts and Operations upon them, as their respective Exigencies do require, to humble them, when they want humbling; to give a check to their corruptions, and mortifie them when there is occasion; to recover them out of the Snare of the Evil one, when entangled therein; to enlighten, and enliven, quick<g ref="char:EOLhyphen"/>en and comfort them; to corroberate and strengthen them, in and under all their Weaknesses, Infirmities, Trials, and Temptations.</hi>
+               </p>
+               <p>
+                  <note place="margin">page 4.</note>Also its declared positively, its a Spiritual Union; in respect to the Veriety thereof its real, not Imagi<g ref="char:EOLhyphen"/>nary; in respect of the things Uni<g ref="char:EOLhyphen"/>ted, its substantial; in respect of its way and manner, its close and inti<g ref="char:EOLhyphen"/>mate.</p>
+               <p>
+                  <note place="margin">page 5.</note>Likewise divers Scriptures are re<g ref="char:EOLhyphen"/>cited by him, which make mention of God, Christ, and the Spirit dwell<g ref="char:EOLhyphen"/>ing with, or living in Believers. And also some lines following, its owned
+<pb n="13" facs="tcp:172861:12"/> that the Spirit of God dwells in Saints. Very well, and worthy Observation, say I.</p>
+               <p>Now, these Concessions considered, with his own Verbal acknowledgment that he hath of Gods Holy Spirit in himself, How can he assert that there is nothing in Man that is increated, without a gross Contradiction to him<g ref="char:EOLhyphen"/>self; considering withall that he con<g ref="char:EOLhyphen"/>fest the said Holy Spirit was not a Creature? Let him reconcile himself if he can, and get quit of this Confu<g ref="char:EOLhyphen"/>sion. As yet he hath not, that I see, though he was before urged to do it; and that he ever will be able to extri<g ref="char:EOLhyphen"/>cate himself out of the Circle he hath drawn himself into, I do not believe he with all his skill can. And his Si<g ref="char:EOLhyphen"/>lence therein to what was queried, shews his inability of doing it; for if he could, no doubt but he would, but instead thereof, because unpossible to accomplish, he endeavours to darken Councel, by multiplying many Words impertinently.</p>
+               <p>
+                  <hi>He hath divers Reasons against a per<g ref="char:EOLhyphen"/>sonal Inhabitation of the Spirit in Belie<g ref="char:EOLhyphen"/>vers; one is,</hi>
+                  <note place="margin">page 4.</note> viz.</p>
+               <q rend="indent">
+                  <pb n="14" facs="tcp:172861:13"/>If the Person of the Spirit be in the Person of every Individual Belie<g ref="char:EOLhyphen"/>ver, then every Individual Belie<g ref="char:EOLhyphen"/>ver is two Persons.</q>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> For my part I never before, that I remember, observed it Written, or heard it Spoken, That a personal In<g ref="char:EOLhyphen"/>habitation of the Spirit was pleaded for by any. Believers are Persons made up externally of Flesh, and Bone, <hi>&amp;c. And a Spirit hath not Flesh and Bone,</hi> saith the Scripture, <hi>Luke,</hi> 24.39. Consequently the Spirit is not a Person having Flesh and Bone, and therefore not in a Personal manner in Believers. And though we own that the Father, and the Son, by the Holy Spirit, are in true Believers; yet I conceive not that therefore it may be justly charged upon us, that we own him to be in a Personal manner in us. Neither that it may be inferred, that there are so many Spirits of God, as there are true Believers in God; the same being one unlimitted Spirit of God, <hi>who thereby searcheth the Heart, and tryes the Reigns, and sheweth unto Man his Thoughts,</hi> Amos 4.13. Jer. 17.10. <hi>And enables Man through his Joyning
+<pb n="15" facs="tcp:172861:13"/> therewith, to bring forth the Fruit of the Spirit.</hi> Gal. 5.22, 23. So it may ap<g ref="char:EOLhyphen"/>pear that its not we, but our Opposers that confounds, and confusedly jum<g ref="char:EOLhyphen"/>bles the Spirit of God, with the gifts and qualifications dispensed from it; for we distinguish the Cause from the Effect; but then its to be always observed and well weighed, that the Cause producing this Effect must really be witnessed in a Spiritual manner within us; and consequently the same increated.</p>
+               <p>He hath an Argument,<note place="margin">page 7.</note> and it runs thus, <hi>viz. That which a little while ago was a non-entitie, cannot be an increated Being; such was Grace inherent in this, and the other Man. Therefore</hi>—Again in pa. 8. <hi>If they that have Grace in them to Day, had it not Yesterday, then the Grace which is in them to Day, is no in<g ref="char:EOLhyphen"/>created, but a created Being: But so it is with them that are Saints to Day, and were Sinners Yesterday; Therefore</hi>—</p>
+               <p>The Saving Grace, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> or Spirit of God in Man, before Man is made Gracious, or Holy by it, is not a non-entitie, but in some degree hath existence in Man, preceding that Godly state, though unreceived and disobeyed; it being this Holy Spirit of Grace that in the
+<pb n="16" facs="tcp:172861:14"/> Heart teacheth ungodly Men to deny their ungodliness, convinceth them of it, and reproves them for it, in order that they may forsake it, and live the Holy Life of Righteousness, <hi>Tit.</hi> 2.12. <hi>Rom.</hi> 1.18.19. <hi>Jo.</hi> 16.8. Conse<g ref="char:EOLhyphen"/>quently this Gracious Spirit is in Man antecedently, and the same no Creature. And in relation hereto, pray take no<g ref="char:EOLhyphen"/>tice what himself saith in the said 8th. pa. <hi>viz. Ʋpon the Souls of Sinners. This</hi> (saith he) <hi>denotes the Objects on which the Grace working Arts, and Operations of the Holy Ghost, are terminated, consi<g ref="char:EOLhyphen"/>dered antecedently to his working this Work, in and upon them.</hi> That is, while Sinners, not Saints, as himself there confesseth to his own overthrow.</p>
+            </div>
+            <div type="part">
+               <head>By the Preaching of the Gospel.</head>
+               <p>
+                  <note place="margin">page 8.</note>This, with his misapplication of <hi>Pet.</hi> 1.23, 24, 25. and <hi>Rom.</hi> 10. is de<g ref="char:EOLhyphen"/>ferred to be Spoken to, until I come to pa. 20.</p>
+               <p>
+                  <note place="margin">page 8.</note>
+                  <hi>Whereby Nature is so far renewed in them</hi> (viz. Sinners) <hi>in respect of Quali<g ref="char:EOLhyphen"/>ties, that all Old things are done a<g ref="char:EOLhyphen"/>way.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nswer.</note>Thus to be renewed, <hi>(viz.)</hi> the Mind that was before dark and ignorant, is
+<pb n="17" facs="tcp:172861:14"/> now inlightned. The Will that was Stubborn, obstinate and averse from that which is good, is now made free<g ref="char:EOLhyphen"/>ly to will that which is represented to it, as good. The Affections that were Carnal, are set upon things which are above—) its very true, is the Work of the Spirit of God in, and upon the Souls of sinners; Therefore (as before) the Spirit of God must needs be there in the Soul to effect this great Work, and so the Work-Man is thus distinguished from the Work of his Hand; and not one put for the other. The Spirit is but one, but his Gifts divers; The manifestation of the Spirit is given to every Man—and no Man can say Jesus is the Lord, but by the Holy Ghost. <hi>It is the same God that worketh all in all,</hi> 1 Cor. 12. So to the end that Man may be Renovated, <hi>God</hi> (according to 2 <hi>Cor.</hi> 4.6. scited here by him in <hi>pag.</hi> 8.) <hi>who commanded the Light to shine out of Darkness, hath shined in our Hearts, to give the Light of the Knowledge of the Glory of God in the Face of Jesus Christ.</hi> Therefore unto this Divine Light in our Hearts, as a most sure word of Prophecy, we do well to take heed, as unto a Light that shineth in a dark place, until the Day-Dawn, and the Day-Star (Christ)
+<pb n="18" facs="tcp:172861:15"/> arise in our Hearts, 2. <hi>Pet.</hi> 1.19. For the Nations of them that are saved shall walk in the Light of the Lamb, <hi>Rev.</hi> 21.23, 24. It being this very Light of Christ the Lamb of God, through Man's Obedience to it, that effectually makes a new Creature, <hi>i. e.</hi> a Christian indeed, one that is in Christ, having Union with Christ; and evidencing that Unity,<note place="margin">Page 8.</note> by a new Creation, <hi>viz.</hi> a new Spirit, new Head, new Principles, new Practices, <hi>&amp;c.</hi> But then this new Creature, and that which creates anew, are not one thing, but two. For that which thus makes a new, is (according to his fol<g ref="char:EOLhyphen"/>lowing words, <hi>pag.</hi> 9.) the sole Power of God, which Power of God is Christ, 1 <hi>Cor.</hi> 1.24. Therefore this Power (Christ) by which this new Work is wrought, must be within, and conse<g ref="char:EOLhyphen"/>quently increated. The Father, Son, and Spirit, as the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath it, (and is generally owned,) being increated; their appearance Spi<g ref="char:EOLhyphen"/>ritually within Man, is certainly no Creature.</p>
+               <p>
+                  <note place="margin">Page 9.</note>He cites, <hi>Ephes.</hi> 10. We are his Workmanship—And <hi>Ephes.</hi> 4.24. And that ye put on the new Man.—And <hi>Col.</hi> 3.10. And have put on the new Man.—And then concludes thus, <hi>viz.</hi>
+                  <pb n="19" facs="tcp:172861:15"/> The new Man renewed in Knowledge, after the Image of God, and Grace inherent, are <hi>Identical,</hi> they are one and the same thing.</p>
+               <p>But the new Man, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> or Man renew<g ref="char:EOLhyphen"/>ed,—and that Divine Spirit in Man, that creates anew, and of which we must be born again, if enter God's Kingdom, <hi>Jo.</hi> 3.5. are not one and the same thing. Which is a sufficient Answer also to <hi>Isa.</hi> 43.1. and other Scriptures following, added by him.</p>
+               <p>Having (saith he) gone over the parts of the last Description of Grace—I proceed to some other Arguments,<note place="margin">Page 10.</note> to prove this Position, <hi>That Grace in Believers is no increated Excel<g ref="char:EOLhyphen"/>lency;</hi> and so proceeds, first menti<g ref="char:EOLhyphen"/>oning that the Humane Nature of Christ is no increated Being.</p>
+               <p>To this, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> there needs no other Re<g ref="char:EOLhyphen"/>ply, than that I know no one asserts it is; but his Divine Nature, or God<g ref="char:EOLhyphen"/>head is increated.</p>
+               <p n="2">2.<note place="margin">Page 11.</note> If (saith he) that Grace which was, and is in the Humane Nature of Christ, be no increated Being; Grace in Believers is not so: The for<g ref="char:EOLhyphen"/>mer is true, therefore the latter. If those Supernatural Divine Qualities, wherewith the Humane Nature of
+<pb n="20" facs="tcp:172861:16"/> Christ was Endowed, did not com<g ref="char:EOLhyphen"/>mence, or begin to exist, till the Hu<g ref="char:EOLhyphen"/>mane Nature did begin to exist, they were not increated, but created Ex<g ref="char:EOLhyphen"/>cellencies; the former is true, There<g ref="char:EOLhyphen"/>fore—<hi>Answ.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> The Grace, or Holy Spirit that appeared in the Humane Nature, was no created Excellency; and had Existence before it, even from Eternity.</p>
+               <p>
+                  <hi>Isa.</hi> 11.1, 2, 3.—<hi>There shall come forth a Rod out of the Stem of Jesse, and a Branch sball grow out of his Roots, and the Spirit of the Lord shall rest upon him.</hi>—The Rod that was to come forth of the Stem of Jesse—was the Messiah considered according to his Humane Nature, a created Being: Therefore so was also the Spirit that was to rest upon him, a created Spirit.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> O most gross Blasphemy, and in<g ref="char:EOLhyphen"/>consequential therefrom as well as Contradictory to himself; who affirm<g ref="char:EOLhyphen"/>ed that the Spirit of God in him, was no Creature.</p>
+               <p>
+                  <note place="margin">Page 10.</note>An increated Being is impassible (saith he) or incapable of Suffering: God (who is an increated Being) saith by the Mouth of his Prophet, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> behold I am pressed under you, as a Cart is pressed that is full of Sheaves, <hi>Amos</hi>
+                  <pb n="21" facs="tcp:172861:16"/> 2.13. And also it is said, <hi>Heb.</hi> 6.6. that some did Crucifie to themselves the Son of God, and put him to an open shame: But this is not to be taken in that strict sense, as that the God-Head it self in the abstract, could be thus done unto.</p>
+               <p>He proceeds to prove that Angels be created Beings, and that the Soul,<note place="margin">Page 12.</note> and Glory are created Beings, and that there is not any thing that's act<g ref="char:EOLhyphen"/>ed by us, can be an increated Being,<note place="margin">Page 14.</note>
+                  <note place="margin">Page 16.</note> as, <hi>viz.</hi> Repentance, Faith, Love, Hu<g ref="char:EOLhyphen"/>mility, Patience, Hope, Fear of God, Meekness, Zeal.</p>
+               <p>What need all this, did, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> I assert the contrary?</p>
+               <p>What Man is in his Essentials or In<g ref="char:EOLhyphen"/>tegrals,<note place="margin">Page 14.</note> in his Naturals or Superna<g ref="char:EOLhyphen"/>turals, in his Morals or Spirituals, he is a Creature of God, and nothing more, and whoever say otherwise, they neither know God, nor them<g ref="char:EOLhyphen"/>selves, Nature, nor Grace, nor any thing else aright.</p>
+               <p>Methinks herein he hath not shewn deep knowledge, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> for I know no one denies it.<note place="margin">Page 14.</note>
+               </p>
+               <p>The Soul is more Excellent than Grace, or any quality that is in it. And there is nothing in the best of Men, that is an increated Being, <hi>pag.</hi>
+                  <pb n="22" facs="tcp:172861:17"/> 16. <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> I deny it: The Spirit of God in the Soul, infinitely excels the Soul, and he (as before) hath confest it to be the Spirit of God within, and that the same is no Creature.</p>
+               <p>
+                  <note place="margin">Page 15.</note>God intending to make a Creature Happy, gives it a Principle capable to understand, and enjoy himself, the Ob<g ref="char:EOLhyphen"/>ject of that Principle to be understood and enjoyed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> Answer, Well, what is that Princi<g ref="char:EOLhyphen"/>ple in the Creature Man, that is capable to understand and enjoy God, which wanted that Understanding and Enjoy<g ref="char:EOLunhyphen"/>ments?</p>
+               <p>Is it the Spirit of God? No, that was never without the Knowledge or Enjoyment of God. Is it a created Be<g ref="char:EOLhyphen"/>ing or Principle, or reasonable Soul that was capable of losing the Knowledge or Enjoyment of God? Then God and his Spirit must be the Object thereof; it is the Inspiration of the Almighty that gives Under<g ref="char:EOLhyphen"/>standing to the Creature; and this Di<g ref="char:EOLhyphen"/>vine Principle that is to be understood and enjoyed by the Creature, must there<g ref="char:EOLunhyphen"/>fore be in the Creature, and cannot without Blasphemy be deemed, No Grace; Or, A Great Nothing. Its not the Reasonable Soul, but the Spirit of
+<pb n="23" facs="tcp:172861:17"/> God is that Principle, which makes the Reasonable Soul in the Creature capable to understand, and enjoy God, and to call that Spirit or Principle no Grace, but a Creature, or a great no<g ref="char:EOLhyphen"/>thing, is Blasphemy: In relation to this, take the Apostles saying, 1 <hi>Cor.</hi> 2.11, 12. <hi>The things of God knoweth no Man, but the Spirit of God:</hi> Now we have received the Spirit which is of God, that we might know the things that are freely given to us of God; whence it follows, that God to make a Creature happy, gives it a Princi<g ref="char:EOLhyphen"/>ple (or Reasonable Soul) capable to understand and enjoy God, and a di<g ref="char:EOLhyphen"/>vine Principle by which this Know<g ref="char:EOLhyphen"/>ledge and Enjoyment is given to Man; which must be the Spirit which is of God, and this Spirit must be in the Heart; as the Apostle saith, <hi>we have received the Spirit, or, as ths Apostle</hi> John <hi>saith, hereby we know that he abi<g ref="char:EOLhyphen"/>deth in us by the Spirit which he hath given us; consequently the Spirit of God, which makes the Creature capable to understand thus, is within, and the same is no Crea<g ref="char:EOLhyphen"/>ture.</hi>
+               </p>
+               <p>I cannot contentedly pass from this,<note place="margin">Page 16.</note> without putting all upon making some improvement hereof.</p>
+               <pb n="24" facs="tcp:172861:18"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> I heartily wish that he would right<g ref="char:EOLhyphen"/>ly improve the Talent, or measure of God's Spirit given to him to profit with, that condemns for Sin, and not thus Evilly treat it.</p>
+               <p>
+                  <note place="margin">Page 17.</note>Next, he proceeds to some Particu<g ref="char:EOLhyphen"/>lar Considerations to induce to Hu<g ref="char:EOLhyphen"/>mility, as that which ties all other Graces together.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> But I do not find in either of them, that he directs to the Spirit of God in the Heart; whereby only we can put on (or be Cloathed with) Humi<g ref="char:EOLhyphen"/>lity, <hi>for without Christ, we can do no<g ref="char:EOLhyphen"/>thing, (and what may be known of God, is manifest in Men; for God hath shewed it unto them,</hi> Rom. 1.19.) And as <hi>J. F.</hi> himself, saith, we could (or can) do nothing towards the Salvation of our own Souls, consequently its by the Spirit of Christ within, (and not of our selves) that we can come to know that blessed State of being truly hum<g ref="char:EOLhyphen"/>ble, or cloathed with Humility: And therefore, the Holy Spirit within should have been recommended to, as the most necessary way to the attain<g ref="char:EOLhyphen"/>ment thereof; but instead thereof, he rather declares against it, as may ap<g ref="char:EOLhyphen"/>pear in these his words, <hi>viz.</hi>
+               </p>
+               <pb n="25" facs="tcp:172861:18"/>
+               <p>
+                  <q>Take Man now in his lapsed E<g ref="char:EOLhyphen"/>state,<note place="margin">Page 19.</note> and put him in some part of the World, where nothing is known or heard of Salvation for Sinners by the Son of God; and there is no<g ref="char:EOLhyphen"/>thing in him that does, or can tell him of this, or any such thing.</q>
+               </p>
+               <p n="1">1. Admit Man was put into such a remote part of the World, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> where no<g ref="char:EOLhyphen"/>thing is known, or outwardly heard of Salvation for Sinners by the Son of God; its boldly said, but not plain<g ref="char:EOLhyphen"/>ly proved by <hi>J. F.</hi> that there is no<g ref="char:EOLhyphen"/>thing in him that does or can tell him of this, or any such thing.</p>
+               <p n="2">2. How then did God intend to make the Creature happy, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> by giving him a Principle capable to understand, and enjoy himself as the Object there<g ref="char:EOLhyphen"/>of, as is granted by <hi>J. F?</hi> Did not God persue his own intention? And did he not give Christ to be a Light to the Gentiles, and to be his Salva<g ref="char:EOLhyphen"/>tion unto the ends of the Earth? And cannot this Light tell and shew them, that this Salvation is in, and by him, whom God hath given for the same end? Namely, the Son of God, who is the true Light that enlighthened every Man coming into the World; which Illumination is Divine and in<g ref="char:EOLhyphen"/>ward,
+<pb n="26" facs="tcp:172861:19"/> and to say this can't tell Man of Salvation by the Son of God, without being outwardly told thereof; what less than Blasphemy is this? For is not this as bad, as to say Christ can<g ref="char:EOLhyphen"/>not shew or discover himself to be a Saviour in remote Parts of the Earth; seeing he is an Universal Light to Man<g ref="char:EOLhyphen"/>kind?</p>
+               <p>
+                  <note place="margin">Page 20.</note>
+                  <q>He alledgeth <hi>Peter</hi>'s Confession in <hi>Matt.</hi> 16.13. and at last, from thence concludes, as that Christ, in Effect, said to <hi>Peter,</hi> Thou could'st never have known him to be the Messiah, and Saviour of Sinners, if thou had'st not been told it from without.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> But as it is not there so mention'd, so it is not in that sense to be under<g ref="char:EOLhyphen"/>stood; but that is a wrong Inference drawn by him there from, appears to me very plain from this very Text cited by him, <hi>viz. Flesh and Blood hath not revealed it unto thee,</hi> (by this I un<g ref="char:EOLhyphen"/>derstand it is meant no Person with<g ref="char:EOLhyphen"/>out him,) but my Father which is in Heaven, which being God, consequent<g ref="char:EOLhyphen"/>ly this Revelation of the Father unto <hi>Peter</hi> was within.</p>
+               <p>And thus also it appears, that the ground of what true Knowledge he had concerning Christ, was from the
+<pb n="27" facs="tcp:172861:19"/> Revelation of the Father in him; therefore <hi>J. F.</hi> is under a grand mi<g ref="char:EOLhyphen"/>stake also herein, as well as a Contra<g ref="char:EOLhyphen"/>dictor of himself, for but just before his above recited wrong Conclusion, as that <hi>Peter</hi> had not known these things relating to Christ, if not told it him from without; yet he words it, as that Christ did in effect say to <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> The Contents of this Creed no Man dictated to thee, they come from above, from the Father of Lights; well granted: Now then, why may not the Father of Lights, as he inwardly, spiritually Revealed the Son of God to <hi>Peter,</hi> and that Revelation was the ground Cause of his Belief in Christ; Reveal him also to such that are put into some remote part of the World? Its positively express'd that he light<g ref="char:EOLhyphen"/>eth every Man, <hi>John</hi> 1.4, 5, 9. <hi>And that the manifestation of the Spirit is gi<g ref="char:EOLhyphen"/>ven to every Man to profit withal,</hi> 1 Cor. 12.7. <hi>And that the saving Grace of God hath appeared to all,</hi> Tit. 2.11. <hi>And that this Grace teacheth to deny Ʋngod<g ref="char:EOLhyphen"/>liness,</hi> ver. 12. <hi>this Spirit reproves the World of Sin,</hi> Jo. 16.8. <hi>this Light ma<g ref="char:EOLhyphen"/>nifesteth all things that are reproved (or reproveable,)</hi> Ephe. 5.13. <hi>Also its testifi<g ref="char:EOLhyphen"/>ed, That Christ is a Light to the Gentiles,
+<pb n="28" facs="tcp:172861:20"/> as well as he is the glory of his People</hi> Israel, Luke 2.32. <hi>The spirit of God as inwardly revealed, is the very way to have the knowledge of Christ in the Mistery,</hi> Eph. 3.3, 5, 6. <hi>and to have the benefit of his coming, according to the History or holy Scripture;</hi> which blessed Hi<g ref="char:EOLhyphen"/>story as we that are blest with the injoyment of it, ought to own and believe it, so those that rest barely in an outward belief thereof, and do not know and believe in Christ within, the mistery, <hi>Col.</hi> 1.27. but are vilifiers and blasphemers against him, and his Spirit, as manifested within; as their Faith is vain, so they doubtless are in a worse state, than such just Gentiles, that through Obedience to the Law of God in the Heart, witness him in the mistery, who yet have not of the History. Now that the Gentiles did believe in God, that he enlightned all Men with a saving Light, that Men ought to live piously, that the Soul is immortal, and that there is an eternal Recompence, may be de<g ref="char:EOLhyphen"/>monstrated by abundance of their own Testimonies, and the same concurring with the holy Scripture; also that it was not, (or cannot be) unpossible for Gentiles to believe in the Son of God,
+<pb n="29" facs="tcp:172861:20"/> without being outwardly told of it, (as he saith) take this recited Instance concerning <hi>Plato,</hi> viz.</p>
+               <p>
+                  <hi>Marcil Fieinus,</hi> who writ the Life of that great Gentile, tells us, among many other things, that being seri<g ref="char:EOLhyphen"/>ously asked by some that visited him, as the last thing they had a mind to be informed about; How long Men should attend to his Writings, of which he seemed so cheary; living and dying in the Belief of what he recommended to the World? He so<g ref="char:EOLhyphen"/>lemnly Answered, <hi>Till that more Holy and Divine Person shall appear to visit the World, whom all Men ought to follow.</hi> At once, both believing such a one to appear, and then forbid<g ref="char:EOLhyphen"/>ding all to prefer that lesser discovery he had given the World, through the improvement of his Talent of Light, to that greater Manifestation which that Divine Person would bring with him into the World. Also my Au<g ref="char:EOLhyphen"/>thor, who transcribed the above Lines speaking of <hi>Virgil,</hi> out of <hi>Cumea,</hi> de<g ref="char:EOLhyphen"/>clares, that enough is afforded to prove the great fore-sight some of the Gentiles had of Christ, being Conceived by the Holy Ghost, Born of a Virgin, and finally coming in the
+<pb n="30" facs="tcp:172861:21"/> Flesh for the Salvation of the World: And also the time when, namely, with<g ref="char:EOLhyphen"/>in that Age, which was the Reign of <hi>Augustus Caesar,</hi> in the beginning of which <hi>Virgil</hi> wrote, and about the end of which Christ was Born.</p>
+               <p>From what hath been said and instan<g ref="char:EOLhyphen"/>ced, I judge it may be justly concluded, and hope that all impartial sensible Per<g ref="char:EOLhyphen"/>sons that are perusers hereof, will with me agree; that the beginning and conclusion of <hi>J. F.</hi> his 7th. weighty so called Consideration, in <hi>pag.</hi> 19, 20. is sufficiently refuted.</p>
+               <p>
+                  <note place="margin">Page 20.</note>In the next place, he hath raised an Objection, <hi>viz.</hi>
+                  <q>We do not say that the knowledge of supernatural Truths is attainable by the Light of Nature, but Christ being now come into the World, he hath given a measure of his Spirit to all, and if they would but hearken thereunto, it would teach them all things.</q> —</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> As we do indeed say, that the know<g ref="char:EOLhyphen"/>ledge of supernatural Truths is not attainable by the Light of Nature, so we do also say, that Christ hath given a measure of his Spirit to all, and hath enlightned every Man that cometh in<g ref="char:EOLhyphen"/>to the World, with a Divine Light, according to <hi>John</hi> 1.4, 5, 9. which if
+<pb n="31" facs="tcp:172861:21"/> hearkned to, believed in, and obey<g ref="char:EOLhyphen"/>ed, would teach them all things need<g ref="char:EOLhyphen"/>ful to their eternal Salvation.</p>
+               <p>He answers the Objection thus: Not<g ref="char:EOLhyphen"/>withstanding of Christ being come in<g ref="char:EOLhyphen"/>to the World, there be none that do actually participate of his Spirit, or spiritual Benefits by him, but by the Gospel Preached to them, by such as are called Commissioned, or Authoriz<g ref="char:EOLhyphen"/>ed thereunto.—</p>
+               <p>He grossly Errs herein; <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> for its very apparent from the last mentioned Text, that Christ hath enlightned e<g ref="char:EOLhyphen"/>very Man with a Divine Light; most surely it is then that they actually participate of his Spirit, and are there<g ref="char:EOLhyphen"/>by put into a capacity of witnessing spiritual Benefits. Yet Preaching of the Gospel in the Demonstration of the Spirit, by such that are called thereunto, we own to be very helpful, and of great benefit; and that God doth ordinarily by and through the powerful Ministry of such qualified Preachers reach to the Consciences, and answer the witness of God in the Hearers, and by the inward word of Faith, that powerful Ministry, works true Faith in them; so the ground of true Faith in God is Christ, the word
+<pb n="32" facs="tcp:172861:22"/> of Faith, the word of God, which is not the Scriptures, neither are they the Gospel; he cites, <hi>Romans</hi> 10.13, 14, 15, 16, 17. <hi>Faith cometh by hearing, and hearing by the word of God:</hi> For proof of his assertion, that none do actually participate of the Spirit, or spiritual Benefits by him, but by Preaching of the Gospel; also the 1st. <hi>Pet.</hi> 1.23, 24, 25. <hi>being born again, not of Corruptible Seed, but of Incorrup<g ref="char:EOLhyphen"/>tible, by the word of God, which liveth and abideth for ever.</hi>
+               </p>
+               <p>And this is the word which by the Gospel is preached unto you: Now that this word, and Gospel, here menti<g ref="char:EOLhyphen"/>oned, is not meant to be the Scripture, let what briefly follows be duly conside<g ref="char:EOLhyphen"/>red. The Apostle in the 6.7. and 8th. verses of the 10th Chapter to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> thus expresseth himself <hi>viz. But the Righteousness which is of Faith, speaketh on this wise, Say not in thine Heart, Who shall ascend into Heaven? (That is, to bring Christ down from above) Or, Who shall descend into the deep? (That is, to bring Christ again from the dead) But what saith it? The word is nigh thee, even in thy Mouth, and in thy Heart: That is the word of Faith which we Preach.</hi> So now the word of God
+<pb n="33" facs="tcp:172861:22"/> from which Faith cometh, mentioned in the 17 verse quoted by him for proof of his aforesaid principle). And the word of Faith preached nigh in the Mouth and in the Heart, verse 9. is one and the same thing, and the very same meant to be Christ within (ac<g ref="char:EOLhyphen"/>cording to our principle) is so clearly demonstrated in the said 6th. and 7th. verses, that methinks it should be readi<g ref="char:EOLhyphen"/>ly acknowledged by all that seriously peruse, and rightly understand the same; considering withall, that his name is called <hi>the word of God,</hi> Rev. 19.13. <hi>And was the word in the be<g ref="char:EOLhyphen"/>ginning, and was with God, and was God,</hi> Joh. 1.1, 2, 3. Col. 1.16. And with<g ref="char:EOLhyphen"/>out Controversy it is the very same word (Christ, and not the Scripture) that is meant 1 <hi>Pet.</hi> 1.23, 24, 25. (quoted likewise by him) <hi>which liveth and endureth for ever.</hi> And this is the word (Christ) which is preached by the Gospel the power of God (and not only the Scripture) <hi>For the Gospel is the power of God unto Salvation,</hi> Rom. 1.16.</p>
+               <p>And the Holy Scripture owned by us to be a true declaration thereof <hi>Luke</hi> 1.1. Which Gospel <hi>Paul</hi> said <hi>was preached</hi> to (or in) <hi>every Creature under Heaven</hi> Col. 1.23. Which cannot be
+<pb n="34" facs="tcp:172861:23"/> understood with respect to the Scrip<g ref="char:EOLhyphen"/>ture, a great part of the World not yet having it; so whether <hi>J. F.</hi> hath not also misapplyed (through misunder<g ref="char:EOLhyphen"/>standing) <hi>Rom.</hi> 10. and 1 <hi>Pet.</hi> 1. Let the Judicious Judge: As also whether from hence it be not likewise very ap<g ref="char:EOLhyphen"/>parent that Christ (the Word) is with<g ref="char:EOLhyphen"/>in, and consequently the same no Crea<g ref="char:EOLhyphen"/>ture, much less to be rendred <hi>A great nothing.</hi> Also I deny what he affirms from 2 <hi>Tim.</hi> 3.14, 15, 16, 17. To wit <hi>That the whole of supernatural Reve<g ref="char:EOLhyphen"/>lation that is needful for us to know,</hi>
+                  <note place="margin">page 14.</note>
+                  <hi>beleive and practise, is contained in the Scripture; for its needful for us both to know and Believe in God and his Son Christ Jesus whom the Heavens of Heavens cannot con<g ref="char:EOLhyphen"/>tain, much less the Scriptures.</hi> And like<g ref="char:EOLhyphen"/>wise I disown what he asserts from <hi>John</hi> 16.13, 14. <hi>Chap.</hi> 14.16. as <hi>That we have no ground to look for Gracious Acts and perations of the Spirit on us but by the Scripture,</hi> The said Verses prove<g ref="char:EOLhyphen"/>ing no such thing, but they prove that the Scripture is profitable, and that the Holy Ghost would bring all those things to remembrance that Christ said to his Disciples before he went away, is acknowledged: But then it doth not from thence follow what <hi>J. F.</hi> hath laid down in these his Sentences,
+<pb n="35" facs="tcp:172861:23"/> whereby he denies the sufficiency of the Holy Spirit with its Inspiration or Re<g ref="char:EOLhyphen"/>velation within Mans Heart without the help of Scripture, and Limits all the gracious Acts of the Spirit on us to the Scriptures without us: Where<g ref="char:EOLhyphen"/>as in those very Scriptures mentioned by him, its declared, <hi>That when the Spirit of Truth is come he will guide you in<g ref="char:EOLhyphen"/>to all Truth, and also shew you things to come; he will abide with you for ever.</hi> The Spirit of God being all-sufficient can graciously operate in us with<g ref="char:EOLhyphen"/>out the Scripture, but the Scripture cannot so operate without the Spirit.</p>
+               <p>Nature is now so deeply depraved in all,<note place="margin">page 22.</note> that nothing short of an Effectual work of the Holy Ghost can renew, sanctifie and change it. This is a work too high for Nature improved to the utmost: Art and Education cannot new make it when there is no more than mere human justitution and instruction; they cannot cause old things to pass awa and all things to become new. This is too high for the most refined Philosophy, ancient or modern, taught by <hi>Socrates, Pythagoras, Plato,</hi> or <hi>Aristotle:</hi> It is no Academical Learning can reach this: It is not being under the most powerful and Spiritual Ministry: It is not the most Argumentative moral swasions made
+<pb n="36" facs="tcp:172861:24"/> use of by Men: It is not a Mans own desires and endeavours to forsake all and every Sin; it is not being in the Ex<g ref="char:EOLhyphen"/>ternal practice of all Religious Duties; it is not being of this or other perswasi<g ref="char:EOLhyphen"/>on, submitting to this or the other ordi<g ref="char:EOLhyphen"/>nance, being of this or the other Church and receiving the Sacrament, that changes Nature, for all these things may be where there is no Heart Re<g ref="char:EOLhyphen"/>novation, <hi>John</hi> 3.3. <hi>Verily Verily I say unto thee, except a Man be born again he cannot see the Kingdom of God.</hi> The same Truth is reiterated in Verse 5. That <hi>Nicodemus,</hi> and all others con<g ref="char:EOLhyphen"/>cerned, might take the more special notice thereof till it be impressed upon their Hearts, and till they know it in their own experience, <hi>Verily Verily, I say unto thee, except a Man be Born of Water and the Spirit, he cannot enter into the Kingdom of God. There is nothing short of the Divine power and Efficacy of the Spirit of the Lord can cleanse Souls polluted with Sin,</hi> Ezek. 36.25. Thus far <hi>J. F.</hi> and very good Doctrin. Con<g ref="char:EOLhyphen"/>sequently then this Divine powerful and Efficacious Spirit of the Lord is really in the Soul to do it, and in the Soul before all this work is done or begun, and the same no Created Being or great Nothing: It must needs be
+<pb n="37" facs="tcp:172861:24"/> something that can do all this, for nothing can do nothing:<note place="margin">Page 14.</note> Wherefore here <hi>J. F.</hi> in this great work of Heart-Renovation, and Sanctification, new Birth, and new Creation, all thy Art and Education, thy human Institutions, all thy refined Philosophy, all thy Academical Learning and all thy argu<g ref="char:EOLhyphen"/>mentative, swasions, all thy External practices of all thy Religious Duties, with all thy submissions to this or the other Ordinance, and thy being of this and tother Church, and all thy Preach<g ref="char:EOLhyphen"/>ing, all these are Nothing, they can do Nothing in this great work of Heart-Renovation, <hi>&amp;c.</hi> There is no<g ref="char:EOLhyphen"/>thing short of the Divine power and Efficacy of the Spirit of the Lord can cleanse Souls polluted with Sin. Is it not high time for thy Hearers to turn from thee and thy Nothingness, to that Something which is the Grace and Spi<g ref="char:EOLhyphen"/>rit of God and Christ in them, which I have and do assert to be the saving Grace in all Men? Which thou Blas<g ref="char:EOLhyphen"/>phemously Assertest to be no Grace and a great Nothing?</p>
+               <p>
+                  <q>Even after the Spirit of God hath been effectually at work upon the Soul,<note place="margin">Page 22.</note> and hath infused supernatural Habits of saving Grace, there is that which may still keep him humble and low in his own Eyes.</q>
+               </p>
+               <pb n="38" facs="tcp:172861:25"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> I own we ought still to keep low and humble, and as we keep to Gods Grace in us, we shall be kept therein, it being as said <hi>Flavel,</hi> the Nature of Grace to humble, abase and empty the Soul.</p>
+               <p>
+                  <note place="margin">Page 23.</note>
+                  <q>They that have True Grace, may in an hour of temptation, and when left to themselves, fall into some hainous, and scandalous Sin, whereby the Spirit of God is grieved,</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> True; But the cause of the fall of such is in themselves in their not keep<g ref="char:EOLhyphen"/>ing to the Spirit of Grace within, no more to be spoke against, in relation thereto, than God himself; and when Man through unfaithfulness falls into Sin, this Spirit of Grace (during the Day of his Visitation) strives in him to bring him to repentance, which if he yields to and not continues rebelling a<g ref="char:EOLhyphen"/>gainst it, it will restore to him the Holy Joys and Spiritual comforts which he once had, and this (as <hi>J. F.</hi> saith himself some lines after concern<g ref="char:EOLhyphen"/>ing some that may be exercised with Divine desertion) cannot be experien<g ref="char:EOLhyphen"/>ed till the Lord himself come and do it; consequently this must be by this Spi<g ref="char:EOLhyphen"/>rit of Grace revealed within, and the same no Creature.</p>
+               <p>
+                  <note place="margin">Page 24.</note>
+                  <q>And what if it does not exempt Persons from Afflictions or from be<g ref="char:EOLhyphen"/>ing
+<pb n="39" facs="tcp:172861:25"/> obnoxious to the assaults of Sa<g ref="char:EOLhyphen"/>tan? Doth it therefore follow, that the Grace is either insufficient,<note place="margin">Page 15.</note> or a Creature, or a great Nothing? Did not the Lord say to <hi>Paul,</hi> when Buf<g ref="char:EOLhyphen"/>feted, <hi>My Grace is sufficient for thee,</hi> 2 <hi>Cor.</hi> 12.9. then able to secure the Proprietors and Possessors thereof, from falling under the power of the Devil, as <hi>James Forbes</hi> falsly affirms it cannot, <hi>pag.</hi> 27?</q>
+               </p>
+               <p>He goes on next briefly, mention<g ref="char:EOLhyphen"/>ing moreover many Matters of hum<g ref="char:EOLhyphen"/>bling or causing for being humbled, but yet directs not in any one of them here neither, to the holy Spirit of God in the Heart, by which only (as aforementioned) we can be truly hum<g ref="char:EOLhyphen"/>bled, and duly considerate and dis<g ref="char:EOLhyphen"/>creet, or spiritually wise; but instead thereof, hath another fling at the Spi<g ref="char:EOLhyphen"/>rit, <hi>viz.</hi>
+                  <note place="margin">Page 28.</note>
+                  <q>When ye have consulted your selves, considered all Circum<g ref="char:EOLhyphen"/>stances, hearkned to whatsoever that within you can suggest, yet we find cause enough still for your going un<g ref="char:EOLhyphen"/>to others for Council, and when ye have been with them, and have all they can say, you come away as wise as ye went. This leaves his Hearers destitute of help and security both from within and without; a sad state
+<pb n="40" facs="tcp:172861:26"/> indeed!<note place="margin">Page 15.</note> Also hereby still manifest<g ref="char:EOLhyphen"/>ing his disrespect to, and contempt of the holy Spirit within, and to be one that declares against the teachings of it, and so appears in direct oppo<g ref="char:EOLhyphen"/>sition to the Holy Scripture, which greatly recommends thereto, and chiefly commends the teaching there<g ref="char:EOLhyphen"/>of, as before in some degree is herein demonstrated.</q>
+               </p>
+               <p>
+                  <note place="margin">Page 29.</note>
+                  <hi>So considering his unacquaintance with an unbelief, in this pure appearance of God's Spirit of Grace within, there is indeed cause enough for</hi> J. F. <hi>to say there is little of a true Zeal for God and his Glory, and against Sin, as such; but whe<g ref="char:EOLhyphen"/>ther then a great part of the fault thereof be not chargeable on such Ministers of the Letter, that instead of directing to the Spirit of Grace within, undervalue it as this my Opponent hath done.</hi>
+               </p>
+               <p>
+                  <note place="margin">Page 30.</note>
+                  <hi>Thus</hi> (saith he) <hi>you have had the first improvement of this Truth, it concerns you to be well grounded in the belief of this, That the Grace of God in Believers is no increated, but a created Being, as that which would conduce much to the keep<g ref="char:EOLhyphen"/>ing them very humble.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> But thus say I, he is quite wrong in endeavouring to ground his Hearers (and Readers) in that his false Faith: And here, as in an other place, his gross
+<pb n="41" facs="tcp:172861:26"/> darkness in relation to the Spirit of Grace within, is so manifested, that it is as clear to me as the Sun in the Me<g ref="char:EOLhyphen"/>ridian, that <hi>J. F.</hi> is in great Errour and Confusion; and whether he, and his holy Learned <hi>Flavell</hi> be not confu<g ref="char:EOLhyphen"/>ted herein, let the Religious and Rati<g ref="char:EOLhyphen"/>onal judge.</p>
+               <p>Thus I have traced him in his Tract to near the end thereof, and hope by what is written, its proved to sa<g ref="char:EOLhyphen"/>tisfaction, that the Grace, Light or Spi<g ref="char:EOLhyphen"/>rit of Christ, (who is God over all, blessed for ever) is really in a divine sensible feeling manner, to be witnes<g ref="char:EOLhyphen"/>sed within Man's Heart: As also, that this his spiritual appearance is no meer fruit or created Excellency; or let no one be mistaken, the Point is not whether the work, or effect of the Spirit be a Creature, but whether Christ the Word, by his Spirit is re<g ref="char:EOLhyphen"/>ally in Man, and he thus considered, be created or increated? Here is the Cause in short truly stated, (as is be<g ref="char:EOLhyphen"/>fore manifested,) and herein we are divided, and consequently both can<g ref="char:EOLhyphen"/>not be right, but he most certainly wrong, in denying of, or not agree<g ref="char:EOLhyphen"/>ing with, but opposing what the holy Scripture herein so evidently holds forth: And being sensible of his secret
+<pb n="42" facs="tcp:172861:27"/> working (under a Mask) against this spiritual appearance and true Faith therein; therefore I can in truth and humbleness of Mind declare, that (not in enmity to him) I found my self under a Godly Concern, to appear on behalf thereof, in most sincere Love to the Souls of my Relations and friendly Neighbours. More particu<g ref="char:EOLhyphen"/>larly, as I do also the like at this time, and heartily wish its good ef<g ref="char:EOLhyphen"/>fect amongst you, who are called In<g ref="char:EOLhyphen"/>dependents; and if it be not by you therein received, but rejected, my Peace will be continued, having so far cleared my self with respect to you, in thus declaring the truth to you, and farther manifesting <hi>J. F</hi>'s. Antipa<g ref="char:EOLhyphen"/>thy thereto, with his Errour Blasphe<g ref="char:EOLhyphen"/>my, and self Contradictions; he him<g ref="char:EOLhyphen"/>self being in Yea and Nay: No and So, going about, and about. And for proof, to revive it to you, take this one repeated notorious Instance, <hi>viz.</hi> First, he verbally owned the Spirit of the Lord in him was no Creature, and in Print, <hi>pag.</hi> 11. he saith, <hi>The Spirit of the Lord that was Prophesied, should rest upon Christ, was a created Spirit; what more greater Contradiction, and grosser Errour and Blasphemy can be as<g ref="char:EOLhyphen"/>serted?</hi>
+               </p>
+               <pb n="43" facs="tcp:172861:27"/>
+               <p>So now I think it time to go back to inspect, and briefly reply to his di<g ref="char:EOLhyphen"/>versifyed Argument in <hi>pag.</hi> 1st. which begins thus, <hi>That which is in every Man, is in Heathens and professed Pa<g ref="char:EOLhyphen"/>gans: But the saving Grace of God is not in Heathens; Therefore not in eve<g ref="char:EOLhyphen"/>ry Man.</hi> I deny his Assumption, it being contrary to express Seripture, <hi>Rom.</hi> 1.19, 20, 21, 28. <hi>clearly evincing that which might be known of God, was manifest in them, yet they liked not to retain God in their knowledge:</hi> His proofs are <hi>Rom.</hi> 2.14. &amp; 3.9, 10, 11, 12, 13, 14, 15, 16, 17, 18. <hi>Eph.</hi> 2.3. the sub<g ref="char:EOLhyphen"/>stance of which, as may appear upon reading thereof, is an account what Man is naturally, <hi>viz. A Child of wrath, and subject to Sin,</hi> and doth not declare that God gave only Nature, and no Grace to them, whereby the might be regenerated and saved from Sin: There<g ref="char:EOLhyphen"/>fore they are no proofs in the case. And to prove the contrary, pray observe the next Verses after his first Text, and the 18 and 19 Verses of the forego<g ref="char:EOLhyphen"/>ing Chapter: By the first it doth ap<g ref="char:EOLhyphen"/>pear that those Gentiles which did the things contained in the Law (as his Proof specifies,) had the work of the Law written in their Hearts. Pray who is it that thus writes the Law in the
+<pb n="44" facs="tcp:172861:28"/> Heart? Its very evident in <hi>Jer.</hi> 31.33. to be the Lord. And the other two ver. of <hi>Rom.</hi> 1.18, 19. are to the point, affirming that which may be known of God, is manifest in them as before, (in whom, namely, those that hold the Truth in Unrighteousness,) for God hath shewed it unto them, <hi>He hath shewed thee O Man what is good,</hi> Mica 6.8. By what doth God shew it? By his Light or Spirit: Also all things that are re<g ref="char:EOLhyphen"/>proved, are made manifest by the Light; for whatsoever doth (shew or) make manifest, is Light, <hi>Eph.</hi> 5.3. and where is this Light. Its within Pray peruse, <hi>Jo.</hi> 1.4, 5, 9. &amp; 3.19, 20, 21. &amp; 8.12. all which makes void his pretended Arguments and Proof, and proves the Point plainly against him.</p>
+               <p>
+                  <note place="margin">Page 14.</note>
+                  <hi>If Heathens and all Ʋnconverted Per<g ref="char:EOLhyphen"/>sons are without Christ, Aliens from the Common-Wealth of</hi> Israel, <hi>Strangers from the Covenants of Promise, having no hope, and without God in the World: Then that which is in them is not Christ.</hi>
+               </p>
+               <p>
+                  <hi>The former is true,</hi> Eph. 2.12. <hi>there<g ref="char:EOLhyphen"/>fore also the latter.</hi>—</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> I deny his first Proposition in its consequence; their being without God, and without Christ in the World, when in the unconverted state, proves
+<pb n="45" facs="tcp:172861:28"/> not that neither God nor Christ nor his Divine Light was in them in that state. The consequence of the first Proposition is sophistically deduced, and not persuant to the terms there<g ref="char:EOLhyphen"/>of, <hi>viz.</hi> His words then, <hi>That which is in them is not Christ,</hi> do not truly follow the foregoing; for on his own Propositi<g ref="char:EOLhyphen"/>ons and Principle, the Argument should run thus, viz. <hi>If Heathens and all Ʋncon<g ref="char:EOLhyphen"/>verted Persons be without God and Christ in the World, then they have neither God nor Christ, nor his Light or Grace in them,</hi> &amp;c.</p>
+               <p>I deny the Proposition again, as to the consequence of it, it plainly oppos<g ref="char:EOLhyphen"/>eth the Omnipresence of God in his Creatures, and leaves all Unconverted Persons destitute of help for their Recovery.</p>
+               <p>Their being without God and with<g ref="char:EOLhyphen"/>out Christ in the World, signifies their being without the Knowledge and Ex<g ref="char:EOLhyphen"/>perience of God and Christ, but not their being out of his presence, nor excluded the extent of his Light and Grace; for the World not knowing him that made it, is no Argument to prove that he that made it is not in it; See the contrary, <hi>John</hi> 1.10.—</p>
+               <p>And did not the Apostle give a bet<g ref="char:EOLhyphen"/>ter Testimony for God, even to the Heathen, referring to certain of their
+<pb n="46" facs="tcp:172861:29"/> own Poets confessing, <hi>viz. Acts</hi> 17.28. <hi>For in him we live, and move, and have our being; as certain also of your own Poets have said; for we are also his Offspring:</hi> Which is enough to confute <hi>J. F.</hi> his arguing against God or Christ being in the Heathen, and shews some of them were of a better judgment than himself therein: And if by Grace they were saved through Faith, and by the holy Spirit made an Habitation of God, then this Grace, this Spirit must in some measure be in them, be<g ref="char:EOLhyphen"/>fore this great Work was accomplished on them: The former is true, therefore the latter.</p>
+               <p>And the same Apostle confirms in his saying, <hi>That even when we were dead in Sins, he hath quickned us together with Christ: By Grace, ye are saved,</hi> ver. 5. Now that which thus quickens Man while in Sin, and converts and rege<g ref="char:EOLhyphen"/>nerates him, is the holy Spirit in the Heart, <hi>John</hi> 6.33. &amp; 3.5. 1 <hi>Cor.</hi> 6.11, 19.</p>
+               <p n="3">3dly. Again, saith he, if Heathens, considered Antecedently to the Gospel's being Preached to them, do sit in dark<g ref="char:EOLhyphen"/>ness and in the shadow of Death, hav<g ref="char:EOLhyphen"/>ing the Understanding darkned, then that which is in them is meer Dark<g ref="char:EOLhyphen"/>ness, and no Gospel Light; the for<g ref="char:EOLhyphen"/>mer
+<pb n="47" facs="tcp:172861:29"/> is true, <hi>Luke</hi> 1.7, 9. <hi>Eph.</hi> 4.18. therefore also the latter.</p>
+               <p>That Heathens, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> and all other Per<g ref="char:EOLhyphen"/>sons that are Unconverted sit in Dark<g ref="char:EOLhyphen"/>ness, and have their Understandings darkned, is true: But that therefore his Inference therefrom is Genuine, as that there is nothing but meer Dark<g ref="char:EOLhyphen"/>ness, and no Gospel-Light in them; I deny, and by express Scripture can plainly prove the contrary, and that is from <hi>John</hi> 1.5. <hi>And the Light shineth in Darkness, and the Darkness compre<g ref="char:EOLhyphen"/>hended it not:</hi> Now let it be remarkt, that this is spoken of the Divine Light, which was the Life in Christ, the Word which was with God, and was God, and shineth in Man while regenerated; and who naturally is Darkness, <hi>Eph.</hi> 5.8. But now saith the Apostle, (in the same verse,) <hi>are ye light in the Lord.</hi> How came they to be so? <hi>By believing in the Light,</hi> John 12.36. <hi>By following of the Light,</hi> Chapt. 8.12. <hi>By taking heed to the more sure word, as unto a Light that shineth in a dark place until the day Dawn, and the day Star arise in the Heart,</hi> 2 Pet. 1.19. <hi>Who hath called us out of Darkness into his marvellous Light,</hi> 1 Pet. 2.9. <hi>For God, who commanded Light to shine out of Darkness, hath shin<g ref="char:EOLhyphen"/>ed in our Hearts, to give the Light of the
+<pb n="48" facs="tcp:172861:30"/> Knowledge of the Glory of God in the face of Jesus Christ: But we have this Trea<g ref="char:EOLhyphen"/>sure in our Earthen Vessels, that the Ex<g ref="char:EOLhyphen"/>cellency of the Power may be of God, and not of us,</hi> 2 Cor. 4.6, 7. <hi>And it is those that hate the Light, who doth Evil, and love Darkness rather than Light, yet the Light is in such (as abovementioned) and is their Condemnation,</hi> John 3.19, 20.</p>
+               <p>Lastly, saith he, <hi>If that which is in Heathens, is the Devil, and the Spirit of the Devil, then that which is in them is not the Spirit of God, for what Communion hath Light with Darkness, what Concord hath Christ with</hi> Beliall? 2 Cor. 6.14, 15. The former is true, <hi>Eph.</hi> 2.2. <hi>Acts</hi> 26.18. <hi>Col.</hi> 1.13. <hi>Jo.</hi> 8.44. 1 <hi>Jo.</hi> 3.8.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> Its a very sad thing that this Prea<g ref="char:EOLhyphen"/>cher <hi>J. F.</hi> can find nothing in Uncon<g ref="char:EOLhyphen"/>verted Souls, but the Devil and Dark<g ref="char:EOLhyphen"/>ness; doth he esteem all his Hearers Converted? If not, what doth he ap<g ref="char:EOLhyphen"/>peal to in the Consciences of the Un<g ref="char:EOLhyphen"/>converted? What can he find nothing but the Devil and Darkness in them? Alas! poor Hearers! what a sad state are you rendred to be in? Is it not worse than that of the Bruit Crea<g ref="char:EOLhyphen"/>tures.—For, although in Heathens, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd all other Persons who are in their natural state, the Spirit of the Devil
+<pb n="49" facs="tcp:172861:30"/> hath the preheminence and govern<g ref="char:EOLhyphen"/>ment, yet neither of those Scriptures proves his Consequence; the first men<g ref="char:EOLhyphen"/>tions, that, that Spirit, <hi>viz. The Prince of the Power of the Air, worketh in the Children of Disobedience;</hi> so it is plain they were Disobedient; but to what? to God, to his Divine Light in them, wherewith he had enlightned them: And this Divine Light within was doubtless the same which the Apostle <hi>Paul</hi> in <hi>Acts</hi> 26.18. (<hi>J. F</hi>'s second proof) declares of, <hi>That he was sent even to the Gentiles to turn them to, for,</hi> saith he, <hi>to open their Eyes, and to turn them from Darkness to Light, from the power of Satan to God;</hi> from which it may more rationally be inferred, <hi>That as the Darkness and Power of Satan was within, so the Light and Power of God was within also, and if they were not Di<g ref="char:EOLhyphen"/>sobedient thereunto, they might receive for<g ref="char:EOLhyphen"/>giveness of Sins, and so be delivered from the Power of Darkness, and translated into the Kingdom of his dear Son,</hi> (ac<g ref="char:EOLhyphen"/>cording to his third proof,) <hi>And the Kingdom of God is within, and was de<g ref="char:EOLhyphen"/>clared by Christ to be even in the unbeliev<g ref="char:EOLhyphen"/>ing</hi> Pharisees, <hi>Luke</hi> 17.20, 21. <hi>Yet they were not in the Kingdom, or translated into it, as all the Ʋngodly are not, but
+<pb n="50" facs="tcp:172861:31"/> they are of their Father the Devil, com<g ref="char:EOLhyphen"/>mitting Sin,</hi> (according to <hi>J. F</hi>'s. last Proof:) But (as the latter part of his last Proof saith,) <hi>For this purpose the Son of God was manifested, that he might destroy the Works of the Devil,</hi> 1 Jo. 3.8. <hi>the which Evil Works come from within, as Christ saith,</hi> Matt. 15.19. Mark 7.20, 21, 22, 23. <hi>consequently he by his powerful Spirit must be within also, to destroy those Works of the Devil, and his coming within to bind the strong Man armed to overcome him, and spoil his goods,</hi> Matt. 12.29. Mark 11.22. So its very true, <hi>Christ hath no Concord with</hi> Belial, according to his recited Text, 2 <hi>Cor.</hi> 6.15. Yet notwithstand<g ref="char:EOLhyphen"/>ing that Disunion as <hi>J. F.</hi> saith in <hi>pag.</hi> 22. <hi>There is Flesh as well as Spirit; so say I, there is Spirit as well as Flesh,</hi> (as the Apostle saith in the same place,) <hi>which Lusteth one against another, being contrary to each other,</hi> Gal. 5.17.</p>
+               <p>And <hi>J. F.</hi> himself, <hi>pag.</hi> 8. speaking concerning the working of the Spirit of God upon the Souls of Sinners, saith, <q>This denotes the Objects on which the Grace-working Acts and Operations of the holy Ghost are terminated, considered antecedently to his working this work in, and up<g ref="char:EOLhyphen"/>on
+<pb n="51" facs="tcp:172861:31"/> them, they are Sinners, not Saints: Also saith he, <hi>pag.</hi> 21. Alas, alas, here is matter of Lamentation,</q>
+                  <hi>The King of Glory knocks at our Door,</hi> Rev. 3.20. But who opens for him to come in? Likewise, saith he, <hi>pag.</hi> 27. <q>Have you not too too often quenched and grieved the holy Spirit of God, after he hath been at work upon your Spi<g ref="char:EOLhyphen"/>rits? And again, <hi>pag.</hi> 28. It hath much interrupted your Communion with God, and caused an Eclipse of the Light of his Countenance, so that you have not had the bright shinings thereof, as otherwise you might have had: Doth not <hi>J. F.</hi> here<g ref="char:EOLhyphen"/>in imply, and yield that Christ by his Spirit is at work in and upon the Souls of those that are Sinners, not Saints? And consequently this his Con<g ref="char:EOLhyphen"/>fession, his own evident Confutation he hath fairly given away his own cause in this and several other pas<g ref="char:EOLhyphen"/>sages.</q>
+               </p>
+               <p>Now having gone through his diver<g ref="char:EOLhyphen"/>sified Argument, and proved from Scripture that God in his universal unspeakable Love to the Souls of Man<g ref="char:EOLhyphen"/>kind, (not desiring the Death of Sin<g ref="char:EOLhyphen"/>ners, or willing any should perish, but that all should come to Repentance,
+<pb n="52" facs="tcp:172861:32"/> and to the knowledge of the Truth, and be saved, <hi>Ezek.</hi> 18.32, &amp; 33, 11. 2 <hi>Pet.</hi> 3.9. 1 <hi>Tim.</hi> 2.4. and in order to it) hath given unto Gentiles, or all Unconverted Persons, something more than Nature, namely, saving Grace, otherwise called Light, Life, Spirit or Power, by which it may appear, that Christ may in some degree be in such Persons, and yet they not be in him, but without God in the World, that is, they not being in the know<g ref="char:EOLhyphen"/>ledge of Christ, but out of Unity and Fellowship with him, but yet he by his Light and Spirit so shining in the Unconverted doth convince them of Sin, and excite them to God: And though the same be a common or uni<g ref="char:EOLhyphen"/>versal Gift from God, yet it is also a special Gift, its Spirit or true sav<g ref="char:EOLhyphen"/>ing Grace in and to them, that submit to be taught and led by it.</p>
+               <p>I say, having thus Answered him, let the impartial (with whom he left it, and I do also) give Judgment in Righteousness, whether the founda<g ref="char:EOLhyphen"/>tion, and superstructure of my for<g ref="char:EOLhyphen"/>mer Book be overthrown, or whether he, with his self-contradicting work be not vanquished; and hereby it be confirmed, that he deserved to be
+<pb n="53" facs="tcp:172861:32"/> plainly dealt with, (yea, plainer than he was,) for calling without any ex<g ref="char:EOLhyphen"/>press Exception, that <hi>A Great No<g ref="char:EOLhyphen"/>thing,</hi> which I according to Scripture asserted to be in me (as well as others,) a saving and sufficient Gift of God's Spirit, and no Creature, which Truth Scripturely maintained, still stands o<g ref="char:EOLhyphen"/>ver him, unrefuted by him, and is that which he with all his Learning and Logick can never be able to do.</p>
+               <p>So our foundation and superstructure is firm and good, and not naught as said by him.</p>
+               <p>Wherefore it is in my Heart, in Bowels of unfeigned Love, again fervently to beseech you my Relations and Friends of the Society aforemen<g ref="char:EOLhyphen"/>tioned; with whom else, unto whom these shall come, who are like minded with you, or those of you that impor<g ref="char:EOLhyphen"/>tunately prest the publication in Print what your Pastor had Preached against this saving Principle: Oh! that you with him (whose wellfare my Soul de<g ref="char:EOLhyphen"/>sires) would desist opposing of God slighting, contemning, undervaluing, and Reproaching his Holy Spirit of Grace in Man. And Oh! that you would come rightly to believe in it
+<pb n="54" facs="tcp:172861:33"/> and be true followers of it, delighting to retire to it, and to wait upon God and seek him in it and be Guided by it; for as he will be sought unto and waited upon, so must it be in his pure lively Spirit within, otherwise unaccep<g ref="char:EOLhyphen"/>table to him: Wherefore it is our in<g ref="char:EOLhyphen"/>cumbent duty to love and have a reve<g ref="char:EOLhyphen"/>rent esteem of it, it being the Principal means ordained of God to lead to Sal<g ref="char:EOLhyphen"/>vation, and not to count it an Idol, nor compare it to Images, or call it a great Nothing; For this is that which stands a witness for God, shews Man his Sin, reproves him for it, instructs him to forsake it, and strives with him that he may abhor it, and so come to be joyned to the Lord, to his Spirit within which thus works: And as Man comes thus to be subjected to the ope<g ref="char:EOLhyphen"/>ration thereof, as to give up in obe<g ref="char:EOLhyphen"/>dience thereto, he most certainly feels of the mighty power of God that is therein, to the creating him anew in Christ Jesus unto good Works; for assuredly there is that Divine power in it, that is able to accomplish it; And, therefore, Oh! that it might be more proved and Answered through true Faith therein and thereby the Holy one be sensibly feelingly known (to be near<g ref="char:EOLhyphen"/>er
+<pb n="55" facs="tcp:172861:33"/> than only above the Skies,) by his Spirit Tabernacling within, to unut<g ref="char:EOLhyphen"/>terable Joy surpassing Peace, and cer<g ref="char:EOLhyphen"/>tain Divine satisfaction and consolati<g ref="char:EOLhyphen"/>on, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>I have,</hi> saith he,<note place="margin">Page 30.</note>
+                  <hi>drawn up another short tract to demonstrate, that his preten<g ref="char:EOLhyphen"/>ded Answer both to him and me</hi> (i. e. <hi>J. Flavell</hi> and himself) <hi>is no Answer at all.</hi>
+               </p>
+               <p>His first not having done it, indeed, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> he therefore may if he please proceed to publish his second, which not ex<g ref="char:EOLhyphen"/>pecting neither that it will demonstrate it, and firmly believing on good ex<g ref="char:EOLhyphen"/>perience blessed be the Lord, that Truth is on my side, and fearing not his plain dealing, which in his first is intimated, I may expect in his next: Therefore I think it not Wisdom to be silent as he premiseth, but have put on Courage in the Name of the Lord, though but as a Stripling, through the help of the little Stone cut out of the Mountains, that is rejected by this wise, Master Builder, to Encounter with him that appears like a <hi>Goliah</hi> with his Armour of Greek, Latin, and Rhetorical Flou<g ref="char:EOLhyphen"/>rishes in English, disdaining at the Army of the living God, and not only so but also slighting the inward and Spiritual
+<pb n="56" facs="tcp:172861:34"/> appearance of the Captain of our Sal<g ref="char:EOLhyphen"/>vation, to wit Christ. Now in Case I do fall before him, that so vaunts over me and reckons the Day his own, the Victory may not be accounted great, I being so weak an Advocate in his Eye and so inconsiderable an ingager, I doubt not but that the Lord will raise up one more abler to ingage more man<g ref="char:EOLhyphen"/>fully with him. But if he proves to be foyled, as I hope hitherto it plainly appears to the Impartial he is, the Victory may be deemed the more Con<g ref="char:EOLhyphen"/>siderable, and the only wise God the more worthy to be praised. <hi>Even so be it,</hi> saith my Soul.</p>
+               <p>He signified that he can do this, and he can do that; and presently after<g ref="char:EOLhyphen"/>wards doth something at it; but let him do all he can, this Divne Light, Grace or Spirit in the Heart, doth still and ever will continue pure and perfect, and all-sufficient, notwithstanding the fai<g ref="char:EOLhyphen"/>ler of any that hath professed it; the cause of such their falling being not be<g ref="char:EOLhyphen"/>cause of any inability therein, but their swerving from it, and practising that which is contrary to it, and condemned by it; and so the same not having proved it self <hi>A Great Nothing,</hi> but
+<pb n="57" facs="tcp:172861:34"/> being really a measure of the Spirit of Truth, it ought not to be deemed as deserving Humiliation, or to be deba<g ref="char:EOLhyphen"/>sed; but on the contray deservedly to be magnified and exalted as an increa<g ref="char:EOLhyphen"/>ted Being; and consequently he still grossly Blaspheming and committing great Evil, in affirming the contrary and calling it <hi>Great Nothing.</hi>
+               </p>
+               <p>The beloved Disciple 1 <hi>Jo.</hi> 2.27. when speaking hereof under the Name of Anointing, saith, <hi>It is received of God, and abideth in you, and that ye need not that any Man teach you, but as the same Anointing teacheth you of all things; and is truth and is no lye. And</hi> (saith he) <hi>even as it hath taught you, ye shall a<g ref="char:EOLhyphen"/>bide in him;</hi> which plainly shews that herein the Apostle directly differs from <hi>J. F.</hi> and doth not account it <hi>A Great Nothing,</hi> or a Spirit of Delusion, nei<g ref="char:EOLhyphen"/>ther do the whole Universe besides our selves see it to be so as he falsly saith.<note place="margin">Page 31.</note>
+               </p>
+               <p>But now its not from these Words of the Apostle to be inferred that he excludes all teaching from an Instru<g ref="char:EOLhyphen"/>ment, that doth it from the Holy Spi<g ref="char:EOLhyphen"/>rit; for its to be observed that in the very next verse, as in divers others of the same Epistle, he in a particular manner doth it himself, and his ge<g ref="char:EOLhyphen"/>neral
+<pb n="58" facs="tcp:172861:35"/> Epistle doth in a general way, prove it; yet never the less its there<g ref="char:EOLhyphen"/>in held forth, That the Holy A<g ref="char:EOLhyphen"/>nointing received and abiding in us, and we in real subjection and obedience to it, is in it self so all-sufficient, as that we need not that any Man teach us, but as the same anointing teacheth and yet still it may not from hence be concluded, That necessary Instructi<g ref="char:EOLhyphen"/>on, for good Government in the Church (being recommended to be observed and answered by the Members thereof) are unnecessarily and contradictorily urged and required, as may be abun<g ref="char:EOLhyphen"/>dantly demostrated out of the Holy Scripture; but in short shall only men<g ref="char:EOLhyphen"/>tion that of the Apostle in <hi>Thess.</hi> 2.15. <hi>Therefore, Brethren, stand fast and hold the traditions or precepts which ye have been taught whether by Word or our Epistle,</hi> which Chap. 3.6. <hi>Now we command you Brethren in the Name of our Lord Jesus Christ, that you withdraw your selves, from every Brother that walketh disorderly, and not after the Traditions which ye received of us:</hi> Herein being sufficient to prove the Point in each respect, as that the Apostle both by Word and Epistle, did teach Believers and also recommend Traditions or In<g ref="char:EOLhyphen"/>structions
+<pb n="59" facs="tcp:172861:35"/> to be kept too by them. And yet the same Apostle in the said 2d. Chap. compared with another of his Sayings to the Church of <hi>Corinth.</hi> 1. Cor. 3.16. Asserts, <hi>That Believers are the Temple of God;</hi> and <hi>That the Holy Spirit is given to and dwelleth in them,</hi> Thess. 4.8. Therefore Believers had something in them that was increated, and sufficient to Teach, Instruct, Lead,<note place="margin">Page 30.</note> Guide and Direct, and also to preserve them; and if then, consequently now, and yet notwithstanding, as then, so now, outward helps proceeding from the same Spirit are not to be rejected, as unserviceable, and useless; for <hi>J. F.</hi> believes the Scriptures are the only Rule, and a sufficient one, for his Hearers, and yet makes use of other means to them, as Preaching, <hi>&amp;c.</hi> If he say the Scriptures allow it, I may also say the same on my part: And as the Holy Scripture doth give prefer<g ref="char:EOLhyphen"/>ence to the Holy Spirit, and in many places directs thereto, as that which Principally is to be regarded, in that we cannot live, or attain to the Holy Life therein mentioned and required, with<g ref="char:EOLhyphen"/>out its Divine assistance (and the same must be received in the Heart) so cer<g ref="char:EOLhyphen"/>tainly
+<pb n="60" facs="tcp:172861:36"/> such that do regard it and are guided by it, or are answering its Holy Will and requirings, they are led into the performance of all such good or<g ref="char:EOLhyphen"/>ders and outward Rules as are by this inward Spirit of God recommended through outward Instruments, to be faithfully observed and practised; so the malicious out-cry of wicked Apo<g ref="char:EOLhyphen"/>states, Discontentedness of Libertins, and Enmity of any other Enimies are in the holy Zeal of the Lord to be trampled upon, and the Divine Spi<g ref="char:EOLhyphen"/>rit of God, and its good orders and instructions ought to be observed and obeyed: For the holy Spirit of Grace and Light is in Unity with it self, and most certainly leads all those that are not Rebellious, Wilful, and Exalted, <hi>&amp;c.</hi> but real followers of it, <hi>into true Ʋ<g ref="char:EOLhyphen"/>nity and Fellowship with the Father, and with his Son Jesus Christ, and one with another,</hi> 1 Jo. 1.3, 7.</p>
+               <p>
+                  <note place="margin">Page 30.</note>
+                  <q>
+                     <hi>J. F.</hi> saith, he has been all his days a Man of a peaceable Spi<g ref="char:EOLhyphen"/>rit.—</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> But if he write again, he threatens what he can do against us, and seems resolved not to spare us; but if so, whether he will not manifest himself
+<pb n="61" facs="tcp:172861:36"/> to be futurely otherwise than he saith of himself, he has been all along for<g ref="char:EOLhyphen"/>merly, that is, more revengeful than peaceable; and whether it will not be better for him to study to be quiet.</p>
+               <p>
+                  <q>And therefore,<note place="margin">Page 21.</note> if he is not above the Advice of me, that am so weak in his sight, I offer it as a thing wor<g ref="char:EOLhyphen"/>thy of his serious Consideration to pause upon, his threatned further proceedings (as expressed by him) before the Publication thereof, and weigh well in himself, (taking along with him also the sense of his judi<g ref="char:EOLhyphen"/>cious Hearers,) whether his work will be to Edication, or whether it will not rather be matter of Scorn to the loose and prophane: And so upon mature deliberation, not be so indiscreet and wilful as upon his failure of proving by the Scripture, that the universal saving Grace, or Spirit of God in Man is <hi>no Grace, and a Great Nothing:</hi> He therefore to endeavour to make it out, insists upon (suppose it be Zeal) miscar<g ref="char:EOLhyphen"/>riages, or mistakes of Professors of it. Let him rather if he will write again, make out from Scripture what
+<pb n="62" facs="tcp:172861:37"/> he can, if he have any thing more to ade for Proof, that this gracious Spirit of Light is not really in Man, or that <hi>it is a Creature, a meer Creature, and an imperfect Creature,</hi> and that will be to the Point. And to stop him in his intended doing, I premise withal for him to consider, that in the Primitive times there were some differences amongst the Apostles and true Believers, and al<g ref="char:EOLhyphen"/>so, that many through Transgressi<g ref="char:EOLhyphen"/>ons fell, miscarried, and came to a great loss, some of them were raised again, <hi>And others turned with the Dog to his Vomit again, and the Sow that was washed to her wallowing in the Mire,</hi> 2 Pet. 2.22. And yet concerning some of them, the Scripture plainly evi<g ref="char:EOLhyphen"/>denceth that they had the Spirit of God in them. Therefore as <hi>J. F.</hi> ought not to charge the Spirit of God with any thing thereof, so if some that have somewhat believed in the Spirit, now have through the Wiles and Power of the Enemy been prevailed upon, to Apostatize from it, or to write against it, or the constant Believers in it, or if some professing of it, do not in all
+<pb n="63" facs="tcp:172861:37"/> things accord, or see each as far as others: He therefore by the same Reason ought not now to reflect up<g ref="char:EOLhyphen"/>on the Spirit; for no Errors, Mi<g ref="char:EOLhyphen"/>stakes, or failings of Men are in the least to be charged upon it.</q>
+               </p>
+               <p>Wherefore upon second thoughts, it will be his wisdom to be silent, lest he bring further shame and confu<g ref="char:EOLhyphen"/>sion of face upon himself: So go not forth hastily to strive (as <hi>J. G.</hi> did at first) lest thou know not what to do in the end thereof, when thy Neighbour hath put thee to shame, <hi>Pro.</hi> 25.</p>
+               <q>
+                  <bibl>
+                     <hi>Reve. 22.17.</hi>
+                  </bibl> And the Spirit and the Bride say come, and let him that heareth say come, and let him that is a thirst come, and whosoever will, let him take of the Water of Life freely.<note place="margin">Christ saith.</note>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>John 7.37, 38, 39.</hi>
+                  </bibl> If any Man thirst, let him come unto me and Drink: He that believeth on me as the Scripture hath said, out of his Belly shall flow Rivers of living Water; but this spake he of the Spirit, which they that believe on him should receive.—</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172861:38"/>
+            <head>BOOKS Printed for, and Sold by <hi>Thomas Northcott,</hi> in <hi>George Yard</hi> in <hi>Lombard Street.</hi>
+            </head>
+            <p>
+               <hi>GEeorge Fox</hi> his Journal; or an Historical Acount of his Life, Travels, Sufferings, Christian Experiences, and Labour of Love in the Work of the Ministry, in <hi>Folio.</hi>
+            </p>
+            <p>The Works of that faithful Servant of Jesus Christ, <hi>Robert Barclay,</hi> in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>Francis Howgil</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Works, in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>Samuel Fisher</hi>'s Works, in <hi>Folio.</hi>
+            </p>
+            <p>Truth Exalted, in the Writings of that Eminent Ser<g ref="char:EOLhyphen"/>vant of Christ, <hi>John Burnyat,</hi> in 4to.</p>
+            <p>
+               <hi>Robert Barclay's</hi> Apology for the People called <hi>Quakers,</hi> in 4to.</p>
+            <p>The Spirit of the Martyrs revived, in 4to.</p>
+            <p>
+               <hi>Stephen Crisp</hi>'s Epistle, concerning the present and suc<g ref="char:EOLhyphen"/>ceeding Times.</p>
+            <p>
+               <hi>Robert Barclay</hi>'s Possibility and Necessity of Inward and Immediate Revelation.</p>
+            <p>Just Measures, in an Epistle of Peace and Love.</p>
+            <p>The Harmony of the Old and New Testament, by <hi>I. T.</hi> with an Appendix, by <hi>W. P.</hi>
+            </p>
+            <p>Some Fruit of Solitude, in Reflections and Maxims, re<g ref="char:EOLhyphen"/>lating to the Conduct of Humane Life.</p>
+            <p>A Key, opening a Way to every Common Understand<g ref="char:EOLhyphen"/>ing, How to discern the Difference betwixt the Religion professed by the People called <hi>Quakers;</hi> and the Perver<g ref="char:EOLhyphen"/>sions, Misreprentations and Calumnies of their several Adversaries. The Third Edition, with Additions. By <hi>W. Penn.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
